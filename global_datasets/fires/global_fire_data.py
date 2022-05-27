@@ -36,5 +36,5 @@ fig.update_layout(mapbox_style="stamen-terrain")
 
 # Comment out below to create html files and images of the visualization.
 # fig.write_image("global_fires_month.png")
-fig.write_html("global_fires_month.html")
+# fig.write_html("global_fires_month.html")
 fig.show()
