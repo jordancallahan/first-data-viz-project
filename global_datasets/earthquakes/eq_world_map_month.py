@@ -40,5 +40,5 @@ fig = Figure(data=data, layout=my_layout)
 
 # Comment out below to create html files and images of the visualization.
 # fig.write_image("global_earthquakes_month.png")
-fig.write_html("global_earthquakes_month.html")
+# fig.write_html("global_earthquakes_month.html")
 fig.show()
